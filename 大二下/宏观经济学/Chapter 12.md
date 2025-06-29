@@ -21,13 +21,13 @@
 
 Y_{0}之前是供给决定于需求，之后是决定与技术进步劳动力等，调整需求只会产生通胀
 
-<img src="/Users/wtsama/Documents/code/大二下期末/宏观/as.png" alt="as" style="zoom:35%;" />
+<img src="as.png" alt="as" style="zoom:35%;" />
 
 
 
 **古典区域🆚凯恩斯区域，类比 IS-LM 模型：**
 
-<img src="/Users/wtsama/Documents/code/大二下期末/宏观/asad.png" alt="asad" style="zoom:50%;" />
+<img src="asad.png" alt="asad" style="zoom:50%;" />
 
 - 价格不变区域没有达到充分就业（只有自然失业率）
 - 长期达到了充分就业
@@ -47,7 +47,7 @@ Y_{0}之前是供给决定于需求，之后是决定与技术进步劳动力等
 
 IS-LM 曲线联立：Y=AD（P），关系为负，方程是Y =Y(P)
 
-<img src="/Users/wtsama/Documents/code/大二下期末/宏观/ad.png" alt="ad" style="zoom:35%;" />
+<img src="ad.png" alt="ad" style="zoom:35%;" />
 
 **变动：**
 
