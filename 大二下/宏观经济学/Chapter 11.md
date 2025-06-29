@@ -136,7 +136,7 @@ $$
 
 ## IS-LM 模型
 
-<img src="/Users/wtsama/Documents/code/大二下期末/宏观/lmis.png" style="zoom:50%;" />
+<img src="lmis.png" style="zoom:50%;" />
 
 任何不均衡都会趋向于均衡点 E（交点）
 
